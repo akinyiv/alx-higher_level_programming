@@ -1,2 +1,3 @@
 0- Write a function that computes the square value of all integers of a matrix.
 1- Search and Replace.
+2- Unique addition.
